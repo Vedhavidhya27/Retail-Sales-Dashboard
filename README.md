@@ -27,7 +27,7 @@ Identification of high- and low-performing segments
 
 Retail Sales Dashboard.pbix – Power BI report file
 
-screenshots/ – Dashboard preview images
+overview.png – Dashboard preview image
 
 🧹 Data Preparation
 
